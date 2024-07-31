@@ -1,1 +1,3 @@
-# bya-drone
+# ByaDrone
+
+This application is intended to show clients my drone photography, 3D models etc...
